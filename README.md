@@ -9,6 +9,10 @@ Dive In Android. A Android Training Course by DIU CPC
 03. Toast
 04. Edit Text
 05. Image View
+
+# Same Project in Kotlin Language
+https://github.com/KhairuI/Kotlin-Android/tree/master
+
 # Reference Projects
 01. MVVM CRUD & Search with Firestore in Java: https://github.com/KhairuI/MVVM_CRUD_Search_with_Firestore
 02. MVVM_With_Volly: https://github.com/KhairuI/MVVM_With_Volly
